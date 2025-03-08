@@ -58,3 +58,5 @@ const createLastThreeObjects = (arr) => {
 };
 
 console.log("4 cu sualin cavabi " , createLastThreeObjects(alphabet));
+
+console.log("kenan");
