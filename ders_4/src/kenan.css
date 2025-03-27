@@ -1,0 +1,8 @@
+div{
+    color: red;
+    font-size: xx-large;
+}
+
+div:last-child{
+    color: aqua;
+}
